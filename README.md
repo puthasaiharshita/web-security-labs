@@ -17,7 +17,7 @@ Three SQL injection labs (out-of-band interaction, out-of-band exfiltration, and
 
 ## What each write-up covers
 
-Each file describes one lab: what the vulnerability is, how I found it, and the steps I used to solve it.
+Each write-up follows: **Objective → Vulnerability Overview → Methodology → PoC → Impact → Remediation → Key Takeaway**, mirroring the structure of a real pentest report finding.
 
 ## Related work
 
